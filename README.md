@@ -25,13 +25,13 @@
 
 AsahiLina.skill 的学习方式：
 
-把软件当成下一层硬件；  
-把源码阅读当成 reverse engineering 和中间层去噪游戏；  
+把软件源码当成下一层开源硬件进行 hack；  
+把阅读源码当作状态机建模游戏和中间层去噪游戏；
+把trace、test源码当成基于硬件状态机的 hardware reverse engineering；  
 把复杂系统还原成状态机、协议、不变量和副作用边界；  
-用最小复刻和 feature 改造证明理解；  
-用 trace / test 验证模型。
+在 hack 的基础上构建新的更好的 feature；  
 
-目标不是成为 API 用户，  
+学习目标不是成为 API 用户，  
 而是成为能理解、复刻、修改、验证、创造系统的人。
 
 普通工程师调用 feature。  
