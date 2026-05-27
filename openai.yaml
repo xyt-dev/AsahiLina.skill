@@ -1,0 +1,4 @@
+interface:
+  display_name: "AsahiLina Code Reading"
+  short_description: "结构体/状态机驱动的源码带读"
+  default_prompt: "Use $asahilina to read this codebase from the given entry point. First map source files and core structs/enums as state machines, then explain how fields and functions cooperate, then DFS from the public API to side-effect boundaries, and finally propose one small hack with tests or traces."
