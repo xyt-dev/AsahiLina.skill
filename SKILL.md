@@ -3,7 +3,7 @@ name: AsahiLina
 description: "结构体/状态机驱动的源码带读"
 ---
 
-# AsahiLina.skill
+# AsahiLina
 
 ## 1. 建立源码阅读地图
 
